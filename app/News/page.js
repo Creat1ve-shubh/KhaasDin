@@ -8,10 +8,24 @@ const News = () => {
     <div className="bg-black min-h-screen text-white overflow-x-hidden">
       <Header />
       <div className="flex flex-row gap-10 mx-[20vw]">
-      <Image className="h-[80vh]" src='/better.jpg' alt=""></Image>
-      <Image className="h-[80vh]" src='/better2.jpg' alt=""></Image>
-      <Footer />
+        <div className="relative h-[80vh] w-full">
+          <Image
+            src='/better.jpg'
+            alt="Description of better.jpg"
+            layout="fill"
+            objectFit="cover"
+          />
+        </div>
+        <div className="relative h-[80vh] w-full">
+          <Image
+            src='/better2.jpg'
+            alt="Description of better2.jpg"
+            layout="fill"
+            objectFit="cover"
+          />
+        </div>
       </div>
+      <Footer />
     </div>
   )
 }

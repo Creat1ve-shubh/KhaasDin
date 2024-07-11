@@ -34,7 +34,7 @@ Aur uski tarah dur bhi 😞😞</SwiperSlide>
 Phatega kya?
 Aap mujhe bohot acche lagte ho
 Patoge kya? 😉</SwiperSlide>
-        <SwiperSlide>Woh kehte hai na,"Swarg se utari hui kokil kanti Apsara"
+        <SwiperSlide>Woh kehte hai na, Swarg se utari hui kokil kanti Apsara
         Haan tumhare liye hi kehte hai</SwiperSlide>
         <SwiperSlide>Ji thoda nazdeek raha kariye,
         Meri dur ki nazar kamzor hai</SwiperSlide>

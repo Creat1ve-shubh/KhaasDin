@@ -34,7 +34,7 @@ export default function Wall() {
   return (
     <>
       {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15].map((image) => (
-        <Image id={image} />
+        <Image key={image} id={image} alt="" />
       ))}
       <motion.div className="progress" style={{ scaleX }} />
     </>
